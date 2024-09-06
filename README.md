@@ -1,4 +1,4 @@
-# uvc-camctl 
+# sierrax-camera-ctl 
 
 Node module to support camera control operations.\
 Version 1.x.x will be limited to Pan, Tilt and Zoom (PTZ) as well as some basic descriptive helper functions.
