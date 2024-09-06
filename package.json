@@ -1,0 +1,16 @@
+{
+  "name": "sierrax-camera-ctl",
+  "version": "0.0.1",
+  "description": "Module to Control uvc Cameras",
+  "main": "sierrax-camera-ctl.js",
+  "scripts": {
+    "test": "node -e 'require(\"./sierrax-camera-ctl.js\")._test()'"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "asmm": "^1.0.1",
+    "async-mutex": "^0.4.0",
+    "usb": "^2.9.0"
+  }
+}
