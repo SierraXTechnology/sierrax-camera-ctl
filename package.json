@@ -9,8 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "asmm": "^1.0.1",
     "async-mutex": "^0.4.0",
-    "usb": "^2.9.0"
+    "usb": "^2.9.0",
+    "uvc-camctl": "^0.0.1"
   }
 }

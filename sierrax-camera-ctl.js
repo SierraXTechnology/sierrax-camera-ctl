@@ -1,7 +1,7 @@
 
 
 const { usb, getDeviceList } = require("usb");
-const UVCControl = require("./uvc-camctl")
+const UVCControl = require("uvc-camctl")
 const camera = new UVCControl();
 const process = require("process");
 const {Mutex, withTimeout} = require('async-mutex')
